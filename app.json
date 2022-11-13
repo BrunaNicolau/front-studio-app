@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "front-studio-app",
-    "slug": "front-studio-app",
+    "name": "studio-app-front",
+    "slug": "studio-app-front",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
